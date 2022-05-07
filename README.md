@@ -13,4 +13,4 @@
 - *This license is subject to change*
 - *This license could be outdated*
 - *This license could no longer be used*
-- *However i do try to keep the license up to date*
+- *However i do try to keep the license provided up to date*
