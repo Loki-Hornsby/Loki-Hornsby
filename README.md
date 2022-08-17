@@ -4,4 +4,4 @@
 💬 Contact: lokihornsby@gmail.com       
 ©️ Copyright: **`Copyright 2022, Loki Hornsby, All rights reserved.`**
 
-Note: many repositries are broken currently because i'm busy working on a game - they will be updated, minimized, simplified etc in due future
+Note: many repositories are broken currently because i'm busy working on a game - they will be updated in due future
