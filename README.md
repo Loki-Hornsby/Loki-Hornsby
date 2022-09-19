@@ -1,6 +1,6 @@
 ### Hi there employers and all 👋
 
-🕸️ Website: https://loki-hornsby.webflow.io
+🕸️ Website: https://loki-hornsby.webflow.io /
 💬 Contact: lokihornsby@gmail.com       
 ©️ Copyright: **`Copyright 2022, Loki Hornsby, All rights reserved.`**
 
