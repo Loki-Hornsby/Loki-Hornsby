@@ -4,4 +4,4 @@
 💬 Contact: lokihornsby@gmail.com <br/>       
 ©️ Copyright: **`Copyright 2022, Loki Hornsby, All rights reserved.`** <br/>
 <br/>
-Note: many repositories are currently archived because i'm busy working on a game and a modloader for Broforce - they may be updated in due future or opened if employers want to look at some of my old code ;)
+Note: many repositories are currently archived because i'm busy working on multiple projects. My website is still a work in progress.
