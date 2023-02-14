@@ -1,4 +1,4 @@
 ### Hi there employers and all 👋
 
-🕸️ Website: https://github.com/Loki-Hornsby/Loki-Hornsby.github.io <br/>
+🕸️ Website: https://loki-hornsby.github.io/ <br/>
 💬 Contact: lokihornsby@gmail.com       
